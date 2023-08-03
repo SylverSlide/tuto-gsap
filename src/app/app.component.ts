@@ -6,6 +6,4 @@ import { TimelineLite, Back, Power1 } from 'gsap';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.sass'],
 })
-export class AppComponent {
-  title = 'gsap-tuto';
-}
+export class AppComponent {}
